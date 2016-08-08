@@ -1,0 +1,28 @@
+_repo: Us-and-the-Bottle-Man_12681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Price, Edith Ballinger
+    birthdate: 1897
+    deathdate: 1997
+    gutenberg_agent_id: '3889'
+    url: http://www.gutenberg.org/2009/agents/3889
+    wikipedia: http://en.wikipedia.org/wiki/Edith_B._Price
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Seashore -- Juvenile fiction'
+- GITenberg
+title: Us and the Bottle Man
+url: http://www.gutenberg.org/ebooks/12681
